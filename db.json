@@ -1,0 +1,100 @@
+{
+    "task":[
+        {
+            "image": "https://assets.ajio.com/medias/sys_master/root/20221219/5ehT/63a08fcef997ddfdbddda009/avaasa_mix_n%27_match_white_churidar_leggings_with_elasticated_waistband.jpg",
+            "brand": "AVAASA MIX N' MATCH",
+            "name": "Churidar Leggings with Elasticated Waistband",
+            "price": "₹283",
+            "orginal_price": "₹399",
+            "discount": 29,
+            "offer_prices": 259,
+            "category": "women-clothing",
+            "id": 1,
+            "quantity": 0
+          },
+          {
+            "image": "https://assets.ajio.com/medias/sys_master/root/20220326/jxmg/623e2e48aeb26921aff93bc4/avaasa_mix_n%27_match_navy_blue_floral_print_straight_kurta.jpg",
+            "brand": "AVAASA MIX N' MATCH",
+            "name": "Floral Print Straight Kurta",
+            "price": "₹305",
+            "orginal_price": "₹599",
+            "discount": 49,
+            "offer_prices": 300,
+            "category": "women-clothing",
+            "id": 2,
+            "quantity": 0
+          },
+          {
+            "image": "https://assets.ajio.com/medias/sys_master/root/20220830/4dvF/630df70df997dd1f8dc72b8f/marks_%26_spencer_navy_kitsch_loungewear_set.jpg",
+            "brand": "Marks &amp; Spencer",
+            "name": "Kitsch Loungewear Set",
+            "price": "₹1,250",
+            "orginal_price": "₹2,499",
+            "discount": 50,
+            "offer_prices": 1000,
+            "category": "women-clothing",
+            "id": 3,
+            "quantity": 0
+          },
+          {
+            "image": "https://assets.ajio.com/medias/sys_master/root/20211216/9VLw/61ba5599aeb26901100e8e86/heeposh_purple_floral_embroidery_flared_kurta_sets.jpg",
+            "brand": "HEEPOSH",
+            "name": "Floral Embroidery Flared Kurta Sets",
+            "price": "₹1,679",
+            "orginal_price": "₹3,650",
+            "discount": 54,
+            "offer_prices": 1007,
+            "category": "women-clothing",
+            "id": 4,
+            "quantity": 0
+          },
+          {
+            "image": "https://assets.ajio.com/medias/sys_master/root/20221207/kejS/638faed9f997ddfdbdc1a37e/sidyal_multicoloured_tie_%26_dye_print_t-shirt_%26_pyjamas_set.jpg",
+            "brand": "SIDYAL",
+            "name": "Tie &amp; Dye Print T-shirt &amp; Pyjamas Set",
+            "price": "₹760",
+            "orginal_price": "₹1,899",
+            "discount": 60,
+            "offer_prices": 684,
+            "category": "women-clothing",
+            "id": 5,
+            "quantity": 0
+          },
+          {
+            "image": "https://assets.ajio.com/medias/sys_master/root/20220326/oiLh/623e2e74aeb26921aff93f02/kimayra_mustard_printed_anarkali_kurta_suit_set.jpg",
+            "brand": "Kimayra",
+            "name": "Printed Anarkali Kurta Suit Set",
+            "price": "₹1,399",
+            "orginal_price": "₹2,499",
+            "discount": 44,
+            "offer_prices": 881,
+            "category": "women-clothing",
+            "id": 6,
+            "quantity": 0
+          },
+          {
+            "image": "https://assets.ajio.com/medias/sys_master/root/hdd/h59/16494126202910/avaasa_mix_n%27_match_beige_ankle-length_leggings_with_elasticated_waist.jpg",
+            "brand": "AVAASA MIX N' MATCH",
+            "name": "Ankle-Length Leggings with Elasticated Waist",
+            "price": "₹355",
+            "orginal_price": "₹399",
+            "discount": 11,
+            "offer_prices": 319,
+            "category": "women-clothing",
+            "id": 7,
+            "quantity": 0
+          },
+          {
+            "image": "https://assets.ajio.com/medias/sys_master/root/20221215/9hrr/639a36ccf997ddfdbdd4caae/kimayra_black_floral_print_flared_kurta_set.jpg",
+            "brand": "Kimayra",
+            "name": "Floral Print Flared Kurta Set",
+            "price": "₹989",
+            "orginal_price": "₹2,299",
+            "discount": 57,
+            "offer_prices": 623,
+            "category": "women-clothing",
+            "id": 8,
+            "quantity": 0
+          }
+    ]
+}
